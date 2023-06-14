@@ -1,0 +1,1 @@
+This folder contains the result diff files.
